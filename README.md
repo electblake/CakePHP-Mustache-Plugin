@@ -8,7 +8,7 @@ For scalability, when the time comes, you can use templates with a more powerful
 
 ## Installation
 
-### 1. From app directory - `git submodule add git@github.com:electblake/CakePHP-Mustache-Plugin.git Plugin/Mustache`
+### 1. From app directory - `git submodule add https://github.com/electblake/CakePHP-Mustache-Plugin.git Plugin/Mustache`
 ### 2. cd into Plugin/Mustache (so we can pull in the latest php implementation of mustache into Plugin/Mustache/Vendor)
 ### 3. `git submodule init`
 ### 4. `git submodule update`
